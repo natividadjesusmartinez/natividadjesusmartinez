@@ -24,5 +24,5 @@ En mi trayectoria, me he enfocado en optimizar y transparentar los procesos cont
 ### 4. Contacto
 ¡Me encantaría conectar para compartir conocimientos contables o explorar oportunidades profesionales!
 
-* 💼 **LinkedIn:** [Tu enlace a LinkedIn aquí, ej. linkedin.com/in/naty-contadora]
-* 📧 **Correo electrónico:** [naty@ejemplo.com](mailto:naty@ejemplo.com)
+* 💼 **LinkedIn:** [natividad.jesus.martinez@clases.edu.sv]
+* 📧 **Correo electrónico:** [natividad.jesus.martinez@clases.edu.sv](natividad.jesus.martinez@clases.edu.sv)
