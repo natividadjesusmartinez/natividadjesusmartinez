@@ -1,29 +1,28 @@
-# ¡Hola! Soy [Tu Nombre y Apellido] 📊
+# ¡Hola! Soy Naty 📊
 
 ### 1. Sobre mí
-Soy un profesional del área de **Contabilidad y Finanzas** apasionado por el análisis de datos, la optimización de recursos y la toma de decisiones estratégicas. Me especializo en [menciona tu especialidad, ej. auditoría, impuestos, análisis financiero corporativo] y mi objetivo es aportar claridad, orden y precisión a los números para impulsar el crecimiento de la organización.
+Soy una profesional dedicada a la **Contabilidad**, con un enfoque claro en el orden, la precisión y el cumplimiento normativo. Me apasiona gestionar ciclos contables completos, analizar estados financieros y asegurar la salud económica de las empresas. Mi objetivo es transformar los datos financieros en información estructurada y transparente para facilitar la toma de decisiones.
 
-### 2. Herramientas y Software
-Para la gestión contable, análisis y reportes financieros, domino las siguientes tecnologías y plataformas:
+### 2. Herramientas y Habilidades Contables
+Manejo las herramientas y normativas necesarias para llevar una contabilidad eficiente y al día:
 
-* **Sistemas Contables y ERP:** [ej. SAP, QuickBooks, Xero, Oracle]
-* **Análisis de Datos:** [ej. Microsoft Excel Avanzado, Power BI, Tableau]
-* **Otras habilidades:** [ej. Modelado financiero, Normas NIIF/IFRS, automatización de reportes]
+* **Software Contable y ERP:** [ej. SAP, QuickBooks, Xero, Peachtree/Sage]
+* **Análisis y Gestión:** Microsoft Excel (Tablas dinámicas, conciliaciones masivas, reportes financieros).
+* **Conocimientos Técnicos:** Ciclo contable completo, declaraciones de impuestos, normativas NIIF/IFRS, conciliaciones bancarias, control de cuentas por cobrar/pagar y elaboración de estados financieros (Balance General, Estado de Resultados).
 
-*(Insignias visuales de herramientas)*
+*(Insignias visuales de herramientas que manejo)*
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-### 3. Proyectos y Experiencia Destacada
-En lugar de repositorios de código tradicionales, aquí destaco algunas de mis iniciativas y logros financieros:
+### 3. Experiencia y Logros Destacados
+En mi trayectoria, me he enfocado en optimizar y transparentar los procesos contables:
 
-* **[Nombre de la Iniciativa o Rol 1]:** [Ej. Diseño e implementación de un dashboard automatizado en Power BI que redujo el tiempo de cierre mensual en un 20%].
-* **[Nombre de la Iniciativa o Rol 2]:** [Ej. Auditoría interna de procesos operativos que resultó en la identificación de un ahorro del 15% en costos trimestrales].
-* **[Nombre de la Iniciativa 3]:** [Ej. Creación de un modelo financiero en Excel para proyectar el flujo de caja a 5 años de una startup tecnológica].
+* **Gestión de Cierres Contables:** [Ej. Ejecución de cierres contables mensuales y anuales garantizando cero discrepancias y el cumplimiento estricto de las fechas límite].
+* **Cumplimiento Fiscal:** [Ej. Preparación, cálculo y presentación de declaraciones de impuestos (IVA, Renta, etc.), asegurando el cumplimiento legal al 100%].
+* **Auditoría y Conciliación:** [Ej. Depuración de cuentas históricas y conciliación de cuentas bancarias de alto volumen, logrando un control total sobre el flujo de efectivo].
 
 ### 4. Contacto
-¡Me encantaría conectar para hablar sobre finanzas, datos u oportunidades profesionales!
+¡Me encantaría conectar para compartir conocimientos contables o explorar oportunidades profesionales!
 
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/tu-usuario)
-* 📧 **Correo electrónico:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+* 💼 **LinkedIn:** [Tu enlace a LinkedIn aquí, ej. linkedin.com/in/naty-contadora]
+* 📧 **Correo electrónico:** [naty@ejemplo.com](mailto:naty@ejemplo.com)
