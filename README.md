@@ -6,16 +6,16 @@ Soy una profesional dedicada a la **Contabilidad**, con un enfoque claro en el o
 ### 2. Herramientas y Habilidades Contables
 Manejo las herramientas necesarias para llevar una contabilidad eficiente al día, integrando nuevas tecnologías para la automatización de procesos:
 
-* **Software Contable y ERP:** [ej. SAP, QuickBooks, Xero, Peachtree/Sage]
+* **Software Contable y ERP:** [ej. QuickBooks, Xero, Peachtree/Sage]
 * **Ofimática y Reportes:** Microsoft Excel, Word y PowerPoint (Tablas dinámicas, conciliaciones masivas, redacción de informes y presentaciones de resultados financieros).
 * **Automatización y Tecnología:** Uso de n8n para la automatización de flujos de trabajo contables y herramientas de Inteligencia Artificial (IA) para optimizar el análisis de datos.
 * **Conocimientos Técnicos:** Ciclo contable completo, declaraciones de impuestos, normativas NIIF/IFRS, conciliaciones bancarias, control de cuentas y elaboración de estados financieros (Balance General, Estado de Resultados).
 
 *(Insignias visuales de herramientas que manejo)*
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligencia_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 
